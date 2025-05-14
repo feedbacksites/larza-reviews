@@ -14,7 +14,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         {/* Blurred Background */}
         <div
           className="fixed inset-0 z-0 bg-cover bg-center blur-lg brightness-50"
-          style={{ backgroundImage: 'url(/larza.jpg)' }}
+          style={{ backgroundImage: 'url(https://i.imgur.com/m2U0LeZ.jpeg)' }}
         ></div>
 
         {/* Semi-transparent black overlay for readability */}
