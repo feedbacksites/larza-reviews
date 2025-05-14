@@ -1,5 +1,6 @@
 import Link from 'next/link'
 
+
 export default function PrivacyPage() {
   return (
     <main className="min-h-screen py-12 px-6 max-w-3xl mx-auto text-white">
@@ -12,7 +13,7 @@ export default function PrivacyPage() {
         All submitted feedback is stored securely in our database and is not shared with third-party services.
       </p>
       <p className="mb-4">
-        By submitting feedback, you consent to the public display of the information you provide. If you'd like your
+        By submitting feedback, you consent to the public display of the information you provide. If you would like your
         comment removed, contact us.
       </p>
       <p className="text-sm mt-10 text-gray-400">
