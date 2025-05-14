@@ -9,7 +9,7 @@ export default function HomePage() {
       {/* Animated profile image */}
       <div className="mb-6 animate-fade-in-up">
         <Image
-          src="/PP11.jpg"
+          src="/larza.jpg"
           alt="Larza"
           width={160}
           height={160}
